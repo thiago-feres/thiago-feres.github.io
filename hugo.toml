@@ -5,6 +5,10 @@ languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
 
+[module]
+[module.hugoVersion]
+min = "0.139.4"
+
 [pagination]
 pagerSize = 6
 
