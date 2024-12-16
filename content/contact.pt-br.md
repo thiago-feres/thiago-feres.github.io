@@ -3,4 +3,4 @@ title = "Contato"
 slug = "contact"
 +++
 
-Me siga em @joaoninguem.
+thiago.b.feres@gmail.com

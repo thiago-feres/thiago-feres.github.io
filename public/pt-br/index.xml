@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>João Ninguém</title>
+    <title>Thiago Feres</title>
     <link>http://localhost:1313/pt-br/</link>
-    <description>Recent content on João Ninguém</description>
+    <description>Recent content on Thiago Feres</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
@@ -76,14 +76,14 @@
       <link>http://localhost:1313/pt-br/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/about/</guid>
-      <description>&lt;p&gt;Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apache Licence 2.0.&lt;/a&gt; O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.&lt;/p&gt;&#xA;&lt;p&gt;O Hugo faz o uso de vários projetos de código aberto incluíndo:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Olá, seja muito bem-vindo (a) ao meu portfólio de projetos de Ciência de Dados.&lt;/p&gt;&#xA;&lt;p&gt;Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, através de projetos com dados públicos. Você vai encontrar também, minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados. Sinta-se à vontade para entrar em contato através dos links no final da página.&lt;/p&gt;&#xA;&lt;p&gt;Saiba mais e contribua em &lt;a href=&#34;https://github.com/thiago-feres&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato</title>
       <link>http://localhost:1313/pt-br/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/contact/</guid>
-      <description>&lt;p&gt;Me siga em @joaoninguem.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:thiago.b.feres@gmail.com&#34; &gt;thiago.b.feres@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projetos</title>
