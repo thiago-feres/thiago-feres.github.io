@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thiago Feres</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost/</link>
     <description>Recent content on Thiago Feres</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <link>http://localhost/posts/markdown-syntax/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <guid>http://localhost/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:1313/posts/rich-content/</link>
+      <link>http://localhost/posts/rich-content/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <guid>http://localhost/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>More Rich Content</title>
-      <link>http://localhost:1313/posts/more-rich-content/</link>
+      <link>http://localhost/posts/more-rich-content/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/more-rich-content/</guid>
+      <guid>http://localhost/posts/more-rich-content/</guid>
       <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <link>http://localhost/posts/math-typesetting/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <guid>http://localhost/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HTML and CSS only tabs</title>
-      <link>http://localhost:1313/posts/html-and-css-only-tabs/</link>
+      <link>http://localhost/posts/html-and-css-only-tabs/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/html-and-css-only-tabs/</guid>
+      <guid>http://localhost/posts/html-and-css-only-tabs/</guid>
       <description>&lt;h2 id=&#34;shortcodes&#34;&gt;&#xA;  Shortcodes&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#shortcodes&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The following content:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hello World!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Goodbye&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Goodbye Everybody!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Will generate:&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;tabs tabs-left&#34;&gt;&#xA;  &#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;  .tabs input#tab-0-0:checked ~ .tab-content-0-0 {&#xA;    display: block;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-0&#34; checked/&gt;&#xA;&lt;label for=&#34;tab-0-0&#34; class=&#34;tab-label&#34;&gt;Hello&lt;/label&gt;&#xA;&lt;div class=&#34;tab-content tab-content-0-0&#34;&gt;&#xA;  Hello World!&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;  .tabs input#tab-0-1:checked ~ .tab-content-0-1 {&#xA;    display: block;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-1&#34; /&gt;&#xA;&lt;label for=&#34;tab-0-1&#34; class=&#34;tab-label&#34;&gt;Goodbye&lt;/label&gt;&#xA;&lt;div class=&#34;tab-content tab-content-0-1&#34;&gt;&#xA;  Goodbye Everybody!&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;right-alignment&#34;&gt;&#xA;  Right alignment&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#right-alignment&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;You can also align the tabs to the right:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;align&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;right&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hello World!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Goodbye&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Goodbye Everybody!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Giving you this look:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mermaid JS support</title>
-      <link>http://localhost:1313/posts/mermaid-support/</link>
+      <link>http://localhost/posts/mermaid-support/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mermaid-support/</guid>
+      <guid>http://localhost/posts/mermaid-support/</guid>
       <description>&lt;p&gt;If you want to use &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; on your website.&#xA;Provide &lt;code&gt;mermaid&lt;/code&gt; as &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#readout&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcode&lt;/a&gt; in your markdown file.&lt;/p&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;flowchart LR&#xA;&#xA;    A --&gt; B&#xA;&#xA;    B --&gt; C&#xA;&#xA;    C --&gt; D&#xA;&#xA;    D --&gt; B&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;sequenceDiagram&#xA;participant Alice&#xA;participant Bob&#xA;Alice-&gt;&gt;Bob: Hi Bob&#xA;Bob-&gt;&gt;Alice: Hi Alice&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Find more example on &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/posts/emoji-support/</link>
+      <link>http://localhost/posts/emoji-support/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <guid>http://localhost/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>External Page: Hugo Coder Wiki</title>
-      <link>http://localhost:1313/posts/hugo-coder-wiki/</link>
+      <link>http://localhost/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo-coder-wiki/</guid>
+      <guid>http://localhost/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <link>http://localhost/posts/placeholder-text/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/placeholder-text/</guid>
+      <guid>http://localhost/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost/about/</guid>
       <description>&lt;p&gt;Hello, and welcome to my Data Science project portfolio!&lt;/p&gt;&#xA;&lt;p&gt;On this page, I showcase my ability to solve business problems using Data Science concepts and tools through projects with public datasets. You will also find my professional experiences, skills, tools, and concepts related to Data Science. Feel free to get in touch through the links on the homepage.&lt;/p&gt;&#xA;&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/thiago-feres&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost/contact/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;mailto:thiago.b.feres@gmail.com&#34; &gt;thiago.b.feres@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;div style=&#34;display: flex; justify-content: space-between; gap: 20px;&#34;&gt;&#xA;  &lt;div style=&#34;flex: 1;&#34;&gt;&#xA;        &lt;img src=&#39;http://localhost:1313/images/project1.jpeg&#39; alt=&#39;Project 1&#39; style=&#39;width: 100%; height: 300px; object-fit: fill;&#39;&gt;&lt;br&gt;&#xA;    &lt;strong&gt;Development of a Business Management Dashboard with Streamlit&lt;/strong&gt;&lt;br&gt;&#xA;    In this project, concepts of Python programming, data manipulation, strategic thinking, and business logic were applied, along with web development tools such as Streamlit and GitHub, to develop a management dashboard featuring the key metrics of a food delivery marketplace company in India. The final outcome of the project was a dashboard hosted in a Cloud environment and made available via a web link. The dashboard can be accessed from any internet-connected device.&lt;br&gt;&#xA;    &lt;strong&gt;The tools used were:&lt;/strong&gt;&#xA;    &lt;ul&gt;&#xA;        &lt;li&gt;Python&lt;/li&gt;&#xA;        &lt;li&gt;Jupyter Lab&lt;/li&gt;&#xA;        &lt;li&gt;Streamlit&lt;/li&gt;&#xA;        &lt;li&gt;GitHub&lt;/li&gt;&#xA;        &lt;li&gt;Git&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    Access the project management dashboard &lt;a href=&#39;https://thiago-feres-curry-company.streamlit.app/&#39; target=&#39;_blank&#39; rel=&#39;noopener noreferrer&#39;&gt;here&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;flex: 1;&#34;&gt;&#xA;        &lt;img src=&#39;http://localhost:1313/images/project1.jpeg&#39; alt=&#39;Project 1&#39; style=&#39;width: 100%; height: 300px; object-fit: fill;&#39;&gt;&lt;br&gt;&#xA;    &lt;strong&gt;Development of a Business Management Dashboard with Streamlit&lt;/strong&gt;&lt;br&gt;&#xA;    In this project, concepts of Python programming, data manipulation, strategic thinking, and business logic were applied, along with web development tools such as Streamlit and GitHub, to develop a management dashboard featuring the key metrics of a food delivery marketplace company in India. The final outcome of the project was a dashboard hosted in a Cloud environment and made available via a web link. The dashboard can be accessed from any internet-connected device.&lt;br&gt;&#xA;    &lt;strong&gt;The tools used were:&lt;/strong&gt;&#xA;    &lt;ul&gt;&#xA;        &lt;li&gt;Python&lt;/li&gt;&#xA;        &lt;li&gt;Jupyter Lab&lt;/li&gt;&#xA;        &lt;li&gt;Streamlit&lt;/li&gt;&#xA;        &lt;li&gt;GitHub&lt;/li&gt;&#xA;        &lt;li&gt;Git&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    Access the project management dashboard &lt;a href=&#39;https://thiago-feres-curry-company.streamlit.app/&#39; target=&#39;_blank&#39; rel=&#39;noopener noreferrer&#39;&gt;here&lt;/a&gt;&#xA;  &lt;/div&gt;</description>
+      <guid>http://localhost/projects/</guid>
+      <description>&lt;div style=&#34;display: flex; justify-content: space-between; gap: 20px;&#34;&gt;&#xA;  &lt;div style=&#34;flex: 1;&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost/portfolio_projetos/images/project1.jpeg&#34; alt=&#34;Project 1&#34; style=&#39;width: 100%; height: 300px; object-fit: fill;&#39;&gt;&lt;br&gt;&#xA;    &lt;strong&gt;Development of a Business Management Dashboard with Streamlit&lt;/strong&gt;&lt;br&gt;&#xA;    In this project, concepts of Python programming, data manipulation, strategic thinking, and business logic were applied, along with web development tools such as Streamlit and GitHub, to develop a management dashboard featuring the key metrics of a food delivery marketplace company in India. The final outcome of the project was a dashboard hosted in a Cloud environment and made available via a web link. The dashboard can be accessed from any internet-connected device.&lt;br&gt;&#xA;    &lt;strong&gt;The tools used were:&lt;/strong&gt;&#xA;    &lt;ul&gt;&#xA;        &lt;li&gt;Python&lt;/li&gt;&#xA;        &lt;li&gt;Jupyter Lab&lt;/li&gt;&#xA;        &lt;li&gt;Streamlit&lt;/li&gt;&#xA;        &lt;li&gt;GitHub&lt;/li&gt;&#xA;        &lt;li&gt;Git&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    Access the project management dashboard &lt;a href=&#39;https://thiago-feres-curry-company.streamlit.app/&#39; target=&#39;_blank&#39; rel=&#39;noopener noreferrer&#39;&gt;here&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;flex: 1;&#34;&gt;&#xA;        &lt;img src=&#39;http://localhost/portfolio_projetos/images/project1.jpeg&#39; alt=&#39;Project 1&#39; style=&#39;width: 100%; height: 300px; object-fit: fill;&#39;&gt;&lt;br&gt;&#xA;    &lt;strong&gt;Development of a Business Management Dashboard with Streamlit&lt;/strong&gt;&lt;br&gt;&#xA;    In this project, concepts of Python programming, data manipulation, strategic thinking, and business logic were applied, along with web development tools such as Streamlit and GitHub, to develop a management dashboard featuring the key metrics of a food delivery marketplace company in India. The final outcome of the project was a dashboard hosted in a Cloud environment and made available via a web link. The dashboard can be accessed from any internet-connected device.&lt;br&gt;&#xA;    &lt;strong&gt;The tools used were:&lt;/strong&gt;&#xA;    &lt;ul&gt;&#xA;        &lt;li&gt;Python&lt;/li&gt;&#xA;        &lt;li&gt;Jupyter Lab&lt;/li&gt;&#xA;        &lt;li&gt;Streamlit&lt;/li&gt;&#xA;        &lt;li&gt;GitHub&lt;/li&gt;&#xA;        &lt;li&gt;Git&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    Access the project management dashboard &lt;a href=&#39;https://thiago-feres-curry-company.streamlit.app/&#39; target=&#39;_blank&#39; rel=&#39;noopener noreferrer&#39;&gt;here&lt;/a&gt;&#xA;  &lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
