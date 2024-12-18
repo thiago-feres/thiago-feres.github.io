@@ -6,7 +6,7 @@ slug = "projects"
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 
   <div style="flex: 1;">
-        <img src='/portfolio_projetos/images/project1.jpeg' alt='Project 1' style='width: 100%; height: 300px; object-fit: fill;'><br>
+        <img src='/images/project1.jpeg' alt='Project 1' style='width: 100%; height: 300px; object-fit: fill;'><br>
     <strong>Desenvolvimento de um Painel Gerencial para Negócio com o Stremlit</strong><br>
     Nesse projeto foram aplicados os conceitos de Programação em Python, manipulação de
 dados, pensamento estratégico e lógica de negócio, junto com ferramentas
@@ -28,7 +28,7 @@ qualquer dispositivo conectado na internet.<br>
   </div>
 
   <div style="flex: 1;">
-        <img src='/portfolio_projetos/images/project1.jpeg' alt='Project 1' style='width: 100%; height: 300px; object-fit: fill;'><br>
+        <img src='/images/project1.jpeg' alt='Project 1' style='width: 100%; height: 300px; object-fit: fill;'><br>
     <strong>Desenvolvimento de um Painel Gerencial para Negócio com o Stremlit</strong><br>
     Nesse projeto foram aplicados os conceitos de Programação em Python, manipulação de
 dados, pensamento estratégico e lógica de negócio, junto com ferramentas
