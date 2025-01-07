@@ -40,5 +40,5 @@ slug = "projects"
         <li>Clustering algorithms: K-Means and Affinity Propagation</li>
         <li>Performance metric: Silhouette Score</li>
     </ul>
-    Access the project management dashboard <a href='https://thiago-feres-curry-company.streamlit.app/' target='_blank' rel='noopener noreferrer'>here</a>
+    Access the project management dashboard <a href='https://github.com/thiago-feres/ensaio-machine-learning' target='_blank' rel='noopener noreferrer'>here</a>
   </div>

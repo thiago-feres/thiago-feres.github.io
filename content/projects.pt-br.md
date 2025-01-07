@@ -35,5 +35,5 @@ slug = "projects"
         <li>Algoritmos de agrupamento: K-Means e Affinity Propagation</li>
         <li>Métricas de performance: Silhouette Score</li>
     </ul>
-    Acesse o painel gerencial do projeto <a href='https://thiago-feres-curry-company.streamlit.app/' target='_blank' rel='noopener noreferrer'>aqui</a>
+    Acesse o painel gerencial do projeto <a href='https://github.com/thiago-feres/ensaio-machine-learning' target='_blank' rel='noopener noreferrer'>aqui</a>
   </div>
